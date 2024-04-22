@@ -1,1 +1,1 @@
-# WDC-Library
+'wdc' is a library specifically crafted to simplify interactions with coverage datasets, which are commonly used in geospatial data processing and analysis. 'wdc' serves as a bridge between users and web coverage processing service queries (WCPS), making it easier to access and work with geospatial coverage datasets, enabling users to effectively analyze and manipulate the data they retrieve.
